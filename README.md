@@ -1,6 +1,6 @@
 # Name of the Project
  NASARU
- ### Author Mercy Lenku: Name Date 15-10-2022
+ ### Author Anne Lenku: Name Date 15-10-2022
  
  ## Project Description
  It's an online shop for selling maasai attires.
